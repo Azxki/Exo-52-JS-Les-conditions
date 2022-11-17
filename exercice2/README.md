@@ -1,7 +1,8 @@
 Exercice 1 :
 
     - Creer deux variables : x et y
-    - Modifier le code pour ajouter une condition qui vérifie que x est supérieur à y afin d'éxécuter le code
+    - Modifier le code pour ajouter une condition qui vérifie que x est supérieur à y afin
+        d'éxécuter le code
 
 
 Théorie :

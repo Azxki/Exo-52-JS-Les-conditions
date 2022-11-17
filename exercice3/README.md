@@ -4,7 +4,8 @@ Exercice 3 :
     - Créer une condition qui vérifie que x est strictement = à y
     - Créer un bloc else qui éxécute le code de votre choix
     - Tester dans le navigateur, faire en sorte que x ait la même valeur que y
-    - Ajouter une instruction permettant d'incrémenter x de 3 puis tester le résultat dans le navigateur
+    - Ajouter une instruction permettant d'incrémenter x de 3 puis tester le résultat
+    dans le navigateur
 
 
 Théorie :
